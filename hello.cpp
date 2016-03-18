@@ -4,6 +4,6 @@ int main()
 {
 	printf("hello whalestudio!");
 	return 0;
-	//ad sad 
+	//ad 
 	//as
  } 
